@@ -1,5 +1,11 @@
 # devdock
 
+![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge&color=2e2e2e)
+![Next.js](https://img.shields.io/badge/Next.js-16.1-black?style=for-the-badge&logo=next.js&color=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript&color=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&color=06B6D4)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge&color=5f5a52)
+
 A local-first developer workspace. 
 
 I built this because I was tired of Googling "json formatter" or "epoch converter" and pasting sensitive data into random websites. **devdock** replaces those scattered tabs with a single, offline application that lives on your `localhost`.
